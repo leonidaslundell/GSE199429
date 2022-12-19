@@ -1,10 +1,11 @@
-# GSE199429
+# Code and data for Time of Day Determines Post-Exercise Metabolism in Mouse Adipose Tissue
 
 This is repository contains the scripts to reproduce all figures and analysis from the publication: Time of Day Determines Post-Exercise Metabolism in Mouse Adipose Tissue published in PNAS.
 
 Main markdown repport is found at GSE199429, with supplementary scripts for public data analysis found under their respective accession codes. All data is found in the data folder.
 
 Session info:
+
 R version 4.1.0 (2021-05-18)
 Platform: x86_64-apple-darwin17.0 (64-bit)
 Running under: macOS Big Sur 10.16
