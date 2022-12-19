@@ -2,7 +2,7 @@
 
 This is repository contains the scripts to reproduce all figures and analysis from the publication: Time of Day Determines Post-Exercise Metabolism in Mouse Adipose Tissue published in PNAS.
 
-Main markdown repport is found at GSE199429, with supplementary scripts for public data analysis found under their respective accession codes. All data is found in the data folder.
+Main markdown repport is found at GSE199429, with supplementary scripts for public data analysis found under their descriptive titles. All data is found in the data folder.
 
 Session info:
 
